@@ -1,0 +1,1719 @@
+{
+  "data": {
+    "found_locations": [
+      {
+        "name": "pallet-town"
+      },
+      {
+        "name": "kanto-route-22"
+      },
+      {
+        "name": "viridian-forest"
+      }
+    ],
+    "areas": [
+      {
+        "location": {
+          "name": "viridian-forest"
+        },
+        "name": "viridian-forest-area",
+        "pokemons": [
+          {
+            "pokemon": {
+              "id": 10,
+              "name": "caterpie",
+              "height": 3,
+              "weight": 29,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shield-dust",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "run-away",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 11,
+              "name": "metapod",
+              "height": 7,
+              "weight": 99,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shed-skin",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 12,
+              "name": "butterfree",
+              "height": 11,
+              "weight": 320,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "compound-eyes",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "tinted-lens",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 13,
+              "name": "weedle",
+              "height": 3,
+              "weight": 32,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shield-dust",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "run-away",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 14,
+              "name": "kakuna",
+              "height": 6,
+              "weight": 100,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shed-skin",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 15,
+              "name": "beedrill",
+              "height": 10,
+              "weight": 295,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swarm",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "sniper",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 16,
+              "name": "pidgey",
+              "height": 3,
+              "weight": 18,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "keen-eye",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "tangled-feet",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "big-pecks",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 17,
+              "name": "pidgeotto",
+              "height": 11,
+              "weight": 300,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "keen-eye",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "tangled-feet",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "big-pecks",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 25,
+              "name": "pikachu",
+              "height": 4,
+              "weight": 60,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "static",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "lightning-rod",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 163,
+              "name": "hoothoot",
+              "height": 7,
+              "weight": 212,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "insomnia",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "keen-eye",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "tinted-lens",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 164,
+              "name": "noctowl",
+              "height": 16,
+              "weight": 408,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "insomnia",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "keen-eye",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "tinted-lens",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 322,
+              "name": "numel",
+              "height": 7,
+              "weight": 240,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "oblivious",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "simple",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "own-tempo",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 325,
+              "name": "spoink",
+              "height": 7,
+              "weight": 306,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "thick-fat",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "own-tempo",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "gluttony",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 401,
+              "name": "kricketot",
+              "height": 3,
+              "weight": 22,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shed-skin",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "run-away",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 406,
+              "name": "budew",
+              "height": 2,
+              "weight": 12,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "natural-cure",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "poison-point",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "leaf-guard",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 455,
+              "name": "carnivine",
+              "height": 14,
+              "weight": 270,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "levitate",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "location": {
+          "name": "kanto-route-22"
+        },
+        "name": "kanto-route-22-area",
+        "pokemons": [
+          {
+            "pokemon": {
+              "id": 19,
+              "name": "rattata",
+              "height": 3,
+              "weight": 35,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "run-away",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "guts",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "hustle",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 21,
+              "name": "spearow",
+              "height": 3,
+              "weight": 20,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "keen-eye",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "sniper",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 22,
+              "name": "fearow",
+              "height": 12,
+              "weight": 380,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "keen-eye",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "sniper",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 29,
+              "name": "nidoran-f",
+              "height": 4,
+              "weight": 70,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "poison-point",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rivalry",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "hustle",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 32,
+              "name": "nidoran-m",
+              "height": 5,
+              "weight": 90,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "poison-point",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rivalry",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "hustle",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 54,
+              "name": "psyduck",
+              "height": 8,
+              "weight": 196,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "damp",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "cloud-nine",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 56,
+              "name": "mankey",
+              "height": 5,
+              "weight": 280,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "vital-spirit",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "anger-point",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "defiant",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 60,
+              "name": "poliwag",
+              "height": 6,
+              "weight": 124,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-absorb",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "damp",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 61,
+              "name": "poliwhirl",
+              "height": 10,
+              "weight": 200,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-absorb",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "damp",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 77,
+              "name": "ponyta",
+              "height": 10,
+              "weight": 300,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "run-away",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "flash-fire",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "flame-body",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 79,
+              "name": "slowpoke",
+              "height": 12,
+              "weight": 360,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "oblivious",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "own-tempo",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "regenerator",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 84,
+              "name": "doduo",
+              "height": 14,
+              "weight": 392,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "run-away",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "early-bird",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "tangled-feet",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 118,
+              "name": "goldeen",
+              "height": 6,
+              "weight": 150,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-veil",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "lightning-rod",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 129,
+              "name": "magikarp",
+              "height": 9,
+              "weight": 100,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rattled",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 130,
+              "name": "gyarados",
+              "height": 65,
+              "weight": 2350,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "intimidate",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "moxie",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 264,
+              "name": "linoone",
+              "height": 5,
+              "weight": 325,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "pickup",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "gluttony",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "quick-feet",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 293,
+              "name": "whismur",
+              "height": 6,
+              "weight": 163,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "soundproof",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rattled",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 399,
+              "name": "bidoof",
+              "height": 5,
+              "weight": 200,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "simple",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "unaware",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "moody",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 418,
+              "name": "buizel",
+              "height": 7,
+              "weight": 295,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-veil",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "location": {
+          "name": "pallet-town"
+        },
+        "name": "pallet-town-area",
+        "pokemons": [
+          {
+            "pokemon": {
+              "id": 1,
+              "name": "bulbasaur",
+              "height": 7,
+              "weight": 69,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "overgrow",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "chlorophyll",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 4,
+              "name": "charmander",
+              "height": 6,
+              "weight": 85,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "blaze",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "solar-power",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 7,
+              "name": "squirtle",
+              "height": 5,
+              "weight": 90,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "torrent",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rain-dish",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 25,
+              "name": "pikachu",
+              "height": 4,
+              "weight": 60,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "static",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "lightning-rod",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 54,
+              "name": "psyduck",
+              "height": 8,
+              "weight": 196,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "damp",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "cloud-nine",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 60,
+              "name": "poliwag",
+              "height": 6,
+              "weight": 124,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-absorb",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "damp",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 72,
+              "name": "tentacool",
+              "height": 9,
+              "weight": 455,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "clear-body",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "liquid-ooze",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rain-dish",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 73,
+              "name": "tentacruel",
+              "height": 16,
+              "weight": 550,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "clear-body",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "liquid-ooze",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rain-dish",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 79,
+              "name": "slowpoke",
+              "height": 12,
+              "weight": 360,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "oblivious",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "own-tempo",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "regenerator",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 90,
+              "name": "shellder",
+              "height": 3,
+              "weight": 40,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shell-armor",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "skill-link",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "overcoat",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 98,
+              "name": "krabby",
+              "height": 4,
+              "weight": 65,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "hyper-cutter",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shell-armor",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "sheer-force",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 99,
+              "name": "kingler",
+              "height": 13,
+              "weight": 600,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "hyper-cutter",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "shell-armor",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "sheer-force",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 116,
+              "name": "horsea",
+              "height": 4,
+              "weight": 80,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "sniper",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "damp",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 117,
+              "name": "seadra",
+              "height": 12,
+              "weight": 250,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "poison-point",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "sniper",
+                    "generation": {
+                      "name": "generation-iv"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "damp",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 118,
+              "name": "goldeen",
+              "height": 6,
+              "weight": 150,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-veil",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "lightning-rod",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 120,
+              "name": "staryu",
+              "height": 8,
+              "weight": 345,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "illuminate",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "natural-cure",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "analytic",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 129,
+              "name": "magikarp",
+              "height": 9,
+              "weight": 100,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "swift-swim",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "rattled",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 130,
+              "name": "gyarados",
+              "height": 65,
+              "weight": 2350,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "intimidate",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "moxie",
+                    "generation": {
+                      "name": "generation-v"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 170,
+              "name": "chinchou",
+              "height": 5,
+              "weight": 120,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "volt-absorb",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "illuminate",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-absorb",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "pokemon": {
+              "id": 171,
+              "name": "lanturn",
+              "height": 12,
+              "weight": 225,
+              "abilities": [
+                {
+                  "pokemon_v2_ability": {
+                    "name": "volt-absorb",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "illuminate",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                },
+                {
+                  "pokemon_v2_ability": {
+                    "name": "water-absorb",
+                    "generation": {
+                      "name": "generation-iii"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
