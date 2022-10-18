@@ -1,0 +1,45 @@
+What are the supported data types in Python?
+The types:
+* int
+* float
+* str
+* tuples
+* set
+* list
+* dict
+
+
+What is the difference between tuples and lists in Python?
+The main difference is the immutability, that means while the list can be mutated to a new list
+(appending a item), the tuple is the opposite, this is related to the concept of hashing,
+and that's why we can use a tuple and not list as a key in a dictionary, the hash of the tuple is always the same
+and the hash of the list could change over the time.
+
+
+What are Python decorators?
+Decorators are function that wrap another function with the purpose of doing certain
+task over the result of the wrapped function
+
+
+What are generators in Python?
+Generators are functions that help us to create iterators, are handy when we dont need to iterate over
+a certain set of items in the same iteration, means we can get next value of the iterators when a certain condition is met.
+(yield and next)
+
+What are shallow and deep copy operations?
+A shallow copy keeps the same reference to the value in the memory, let's suppose that we have a dict
+and we create a new variable and assign the dict variable, then if we make an operation on any variable
+the operation is gonna be reflected when make use of the another variable, sometimes this leads to certain
+misbehavior.
+
+A deep copy means that we create a new value in the memory, so if we make a operation on any state, that means the another variable or state
+will not suffer any change.
+
+Explain Dependency Injection?
+This is a concept that means we pass the a Dependency a certain class in the constructor of the class, 
+instead the class create a new instance of the Dependency, decoupling the classes(Too, is related to Dependency Inversion Principle)
+
+Explain how you can make a Python Script executable on Unix?
+we can add "#!/usr/bin/env python" in the head of our python file
+and change the permissions of the python file to be executable
+
