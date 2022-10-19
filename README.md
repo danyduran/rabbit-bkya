@@ -15,3 +15,15 @@ The principal issue using the REST api is the "under-fetching", we would have to
 
 The solution is easy, instead of using the REST API, we need to use the GraphQL because we can get the necessary data just making a single request.
 ![GraphQL flow](images/graphql_flow.png)
+
+# Running project
+## Using Docker
+we need just the next command:
+docker-compose up --build
+
+## Using Virtual env
+- Create a new virtual enviroment
+- Activate the virtual env
+- run pip install -r requirements.txt
+- change to the dir src
+- run uvicorn main:app or run pytest to run the tests
